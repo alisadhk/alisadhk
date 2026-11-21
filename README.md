@@ -19,15 +19,6 @@ Network engineer with experience in **ISP and enterprise environments**, special
 - Runs coordination meetings with other departments to keep the network stable and operations efficient.
 - Experienced in **network data analysis** and performance reporting.
 
-## Experience
-| Period | Role | Highlights |
-|---|---|---|
-| **May 2024 - Jan 2026** | Senior NOC Engineer and Developer (NOC / DevOps) - FiberX (FTTH) and QuickNet (wireless ISP) | FreeRADIUS + daloRADIUS for central authentication; a TACACS+ GUI manager with command authorization and session logging; R-Syslog for live logs with filtering; PRTG, Zabbix (custom OID sensors) and The Dude network maps; OSPF, IS-IS, VXLAN and EIGRP routing; OpenVPN access; led the NOC and Support teams; built the HK tool suite |
-| **Jan 2022 - May 2024** | NOC Engineer and Technical Support - SawadLand ISP | STP, VLAN, OSPF, EIGRP and BGP troubleshooting; monitoring with PRTG, Zabbix and The Dude; INT, FNA, GGC and CDN77 bandwidth services; hotspot services; wireless links (MikroTik, Mimosa, Ubiquiti AirFiber, Exalt, Netronix); SAS billing system support |
-| **Mar 2020 - Nov 2021** | Sales Supervisor - LELAS Company | Supervised a sales team, ran daily operations and marketing campaigns |
-
-**Education:** B.Sc. in Statistics - College of Administration and Economics, University of Baghdad (2020)
-
 ## Skills and tools
 
 **Monitoring and observability**
