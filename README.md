@@ -25,7 +25,8 @@ Newest first. Every repository contains the source code, an English README with 
 | Project | What it does | Updated |
 |---|---|:-:|
 | [**HK Job Hunter**](https://github.com/alisadhk/hk-job-hunter) | Finds fresh IT/network job posts and notifies you on Telegram | 2026-06 |
-| [**Merchant Report Tool**](https://github.com/alisadhk/emil-report-mm) | Builds merchant reports and sends them by email or WhatsApp | 2026-04 |
+| [**Business Support Dashboard**](https://github.com/alisadhk/business-support-dashboard) | Offline SLA and team-performance dashboard from Excel exports | 2026-05 |
+| [**Merchant Report Tool v2.4**](https://github.com/alisadhk/emil-report-mm) | POS and B2B settlement reports sent by Outlook or WhatsApp | 2026-05 |
 | [**Echo-X Monitor**](https://github.com/alisadhk/echo-x-monitor) | Ping/MTR latency monitor with alarms | 2026-04 |
 | [**NTP Server Auto-HK Installer**](https://github.com/alisadhk/ntp-server-auto-hk-installer) | Installs an NTP server over SSH | 2025-12 |
 | [**Zabbix Auto-HK Installer**](https://github.com/alisadhk/zabbix-auto-hk-installer) | Installs Zabbix 7.4 on Ubuntu over SSH | 2025-12 |
